@@ -1,4 +1,4 @@
-id,city,state,state_name,county_fips,county_name,latitude,longitude
+id,city,state,state_name,fips,county,latitude,longitude
 1840034016,New York,NY,New York,36081,Queens,40.6943,-73.9249
 1840020491,Los Angeles,CA,California,6037,Los Angeles,34.1141,-118.4068
 1840000494,Chicago,IL,Illinois,17031,Cook,41.8375,-87.6866
