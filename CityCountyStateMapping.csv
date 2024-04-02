@@ -1,5 +1,5 @@
 id,city,state,state_name,fips,county,latitude,longitude
-1840034016,New York,NY,New York,36081,Queens,40.6943,-73.9249
+1840034016,New York City,NY,New York,36081,Queens,40.6943,-73.9249
 1840020491,Los Angeles,CA,California,6037,Los Angeles,34.1141,-118.4068
 1840000494,Chicago,IL,Illinois,17031,Cook,41.8375,-87.6866
 1840015149,Miami,FL,Florida,12086,Miami-Dade,25.784,-80.2101
@@ -22,7 +22,7 @@ id,city,state,state_name,fips,county,latitude,longitude
 1840020551,Riverside,CA,California,6065,Riverside,33.9381,-117.3949
 1840020364,Las Vegas,NV,Nevada,32003,Clark,36.2333,-115.2654
 1840001592,Baltimore,MD,Maryland,24510,Baltimore,39.3051,-76.6144
-1840001651,St. Louis,MO,Missouri,29510,St. Louis,38.6359,-90.2451
+1840001651,St Louis,MO,Missouri,29510,St. Louis,38.6359,-90.2451
 1840019941,Portland,OR,Oregon,41051,Multnomah,45.5371,-122.65
 1840022220,San Antonio,TX,Texas,48029,Bexar,29.4632,-98.5238
 1840021491,Sacramento,CA,California,6067,Sacramento,38.5677,-121.4685
