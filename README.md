@@ -48,6 +48,7 @@ minimal influence, which is potentially due to the state-level granularity of th
 1, cities with higher median household income were significantly more likely to engage with the UNFCCC. The 
 political affliction of a city proved to be ineffective in explaining the nuances of the individual actions recorded by the 
 UNFCCC.  
+
 This report can hold significance for the UNFCCC, highlighting areas of focus for improving engagement among cities 
 unlikely to participate. The findings also point to the need for further research and the possibility of exploring more 
 variables and countries. 
